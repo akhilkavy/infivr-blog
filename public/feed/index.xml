@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>InfiVR Blog</title>
+	<atom:link href="https://github.com/akhilkavy/infivr-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/akhilkavy/infivr-blog</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Aug 2021 13:23:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https://github.com/akhilkavy/infivr-blog/wp-content/uploads/2021/07/cropped-cropped-1_n7Y16rQcBggVrRAbMyKhKw-32x32.jpeg</url>
+	<title>InfiVR Blog</title>
+	<link>https://github.com/akhilkavy/infivr-blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Augmented Reality leads digital transformation in the Marine industry!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/augmented-reality-leads-digital-transformation-in-the-marine-industry/</link>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:54:56 +0000</pubDate>
+				<category><![CDATA[Augmented Reality]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=60</guid>
+
+					<description><![CDATA[The marine industry is being radically transformed by digitalisation and the rapid growth of new technologies. Performance and versatility are improved by these technologies. These advancements, however, are no longer limited to goods and systems. They also change the way marine maintenance is done. Using augmented reality and smart glasses in stern tube seals and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The marine industry is being radically transformed by digitalisation and the rapid growth of new technologies. Performance and versatility are improved by these technologies. These advancements, however, are no longer limited to goods and systems. They also change the way marine maintenance is done. Using augmented reality and smart glasses in stern tube seals and bearings facilities, we are bringing a whole new level of repair and maintenance to the industry. This technology simplifies troubleshooting and speeds up the process in the operation and eases up the training process. Inspections, alignment measurements, on-site machining, shaft straightening, and new building commissioning are all made much easier and quicker than ever. The potential for saving time and money is immense.</p>
+
+
+
+<p>The use of augmented reality technologies in the marine industry is not limited to a single application. Let’s take a closer look at Augmented Reality applications in the marine industry to learn more about the benefits of this technology and the possibilities that its implementation presents.</p>
+
+
+
+<p id="ff4d">𝐒𝐡𝐢𝐩 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐨𝐫𝐬</p>
+
+
+
+<p id="00a0">Ship simulators are maybe the best known and exploited marine application. Ship bridge simulators are widely used to train maritime officers on how to use ship systems in a controlled real-time environment and to model movements into and out of major ports around the world. It is also an effective training method for deck staff, as it prepares them for what they can encounter once they board a ship. Simulating movements into and out of major ports around the world and training maritime officers to use ship systems in a controlled real-time environment are popular uses for ship bridge simulators. It’s also a valuable preparation tool for deck crews, as it trains them for what they’ll encounter once they board a ship.</p>
+
+
+
+<p id="a673">𝐒𝐡𝐢𝐩𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠</p>
+
+
+
+<p id="504e">Under the influence of developments such as growing programme costs, widening foreign opportunities, and increasing demand from government customers seeking value for money, the naval shipbuilding industry is undergoing unprecedented change and disruption. As a result, digital reinvention is the only option. Some prestigious shipyards use augmented reality as a design review tool. Although the concept is still in the development stage, participants from different disciplines and stakeholders have the ability to test and assess the current model. Customers and the general public are also informed about new items, such as ships and offshore facilities, using virtual models that replace actual ones.</p>
+
+
+
+<p id="28f5">𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐀𝐢𝐝𝐬</p>
+
+
+
+<p id="ba57">Electronic Navigational Aids (ENAs) on board today’s ships offer a wealth of knowledge to aid navigation, but they frequently divert deck officers’ attention away from their watch-keeping duties. Fusion of all additional data into a single, easy-to-understand display of the ship’s navigational and voyage-related data will allow optimum use of all available resources without disrupting the ship’s operational procedures. By combining a variety of electronic navigational and communications systems, such as the automatic identification system (AIS), vessel traffic services (VTS), or automatic radar plotting aids (ARPA), with nautical charts, satellite imagery, or other on board systems and sensors, it enhances navigational safety, collision avoidance, ship security, and environmental protection. Details such as route waypoints, distance and bearing to the next waypoint, local hazards, buoys, and lighthouses, among other things, can be added to the video. These virtual objects are overlaid on film and placed in their actual geographic location in augmented reality. In low visibility conditions, a navigation aid in the form of virtual “rails” on both sides of the ship track aids steering.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/700/1*BYZcZKfFRNCfOwV1JwpLWA.jpeg" alt=""/></figure>
+
+
+
+<p id="c288">𝐌𝐚𝐢𝐧𝐭𝐞𝐧𝐚𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐀𝐑</p>
+
+
+
+<p id="4948">Another promising AR application is assisting with complex machine assembly, maintenance, and repair. Engineers can complete their jobs safer, easier, and quicker by overlaying instructions, sketches, procedures, and 3-D interactive guides on a see-through picture of the actual equipment in real time. Nearly 20 years ago, Columbia University and Boeing produced the first applications of this kind.</p>
+
+
+
+<p id="a6ee">Marine mechanics are responsible for the maintenance and repair of complex equipment, which is mostly done in confined spaces. Mechanics wear a head-worn monitor instead of bringing a laptop and paper documentation, and the AR system produces virtual layers of text commands, marks, and alerts, as well as 3-D guiding arrows and 3-D models of the required resources. A smart phone with a touch screen is worn on the mechanic’s wrist and is used to communicate with the AR system. Initial testing of the AR app shows that it can help users complete maintenance tasks in about half the time they would normally take.</p>
+
+
+
+<p id="ca8a">𝐀𝐑 𝐮𝐧𝐝𝐞𝐫 𝐰𝐚𝐭𝐞𝐫</p>
+
+
+
+<p id="0467">Developing an underwater augmented reality device remains a challenge. It must also meet certain additional criteria. The device must be waterproof, withstand the high pressures of deep diving, and not rely on GPS. As a result of these criteria, the AR system must use specialized sensors, be durable, and be difficult to build and costly. Using Augmented Reality techniques underwater transform a normal swimming pool into a virtual coral reef with shoals, mussels, and weeds by adding virtual objects to it. The waterproof monitor and camera built into the diver’s mask, the handheld PC in the diver’s backpack, and the inertial and magnetic tracking device are the system’s key components.</p>
+
+
+
+<p id="91b2">𝐒𝐚𝐟𝐞𝐭𝐲 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠</p>
+
+
+
+<p id="0025">Aside from the aforementioned AR application cases, another reason that has recently gained a lot of traction is the use of AR for training purposes of employees who, in most cases, work also offshore. Remote experts with multiple expertise and experience will provide real-time training to existing or new workers without experience for more challenging problems through AR Remote Assistance.</p>
+
+
+
+<p id="7b18">Having the ability to realize this training even though it is enriched with photographs, pdf files, or 3D models allows the trainees to be trained in a more efficient way than the conventional model allows. Furthermore, this learning mechanism aids staff in being better prepared for future unexpected scenarios. Through this preparation, remote experts bring to life scenarios of challenging problems that may arise, preparing workers for immediate solutions that may be needed to effectively resolve these issues. In fact, cost-effective technological tools have already aided the maritime industry in adopting AR Remote Assistance and putting it to good use.&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;Remote, for example, offers Augmented Reality-based remote assistance applications for improved training experiences. Employees in the maritime industry now have the ability to receive adequate training and experience in a risk-free environment thanks to this remote. On the other hand,&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;solutions have a lot of potential for improving repair and maintenance operations. Users can send and receive visual images, directions, and written files right in front of their eyes using this remote assistance on mobile devices and even wearable devices like smart glasses, eliminating the need to struggle with guide handbooks.</p>
+
+
+
+<p id="41d1">To summarize what we’ve said so far, Augmented Reality appears to us as more than a technology; it’s a big wave of change aimed at revolutionizing the maritime industry. The use of augmented reality has the ability to improve the processes that give this industry its proper values. This can also be seen as a motivator for many companies in this industry to adopt this technology in order to increase performance, reliability, and security.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Augmented Reality making Caterpillar more interesting!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/augmented-reality-making-caterpillar-more-interesting/</link>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:52:07 +0000</pubDate>
+				<category><![CDATA[Augmented Reality]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=58</guid>
+
+					<description><![CDATA[When things don’t perform as they should, many industries demand knowledgeable professionals, prompting entire halts in production as on-site workers try to coordinate with off-site aid or wait for someone to arrive. So many various technologies now available to us ease these concerns, and AR provides platforms that can display a large amount of data [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>When things don’t perform as they should, many industries demand knowledgeable professionals, prompting entire halts in production as on-site workers try to coordinate with off-site aid or wait for someone to arrive. So many various technologies now available to us ease these concerns, and AR provides platforms that can display a large amount of data while also demonstrating to specialists exactly what the difficulties are. Consider employing augmented reality to maintain industrial equipment in the field. This is why Caterpillar employs augmented reality.</p>
+
+
+
+<p id="5cbd">Caterpillar is well-known throughout the world for its industrial machinery. This company manufactures equipment for three different industries: mining, emery or transportation (oil and gas, marine), and construction. What happens if one of its products fails at ground zero? Its experts are continually on the road, performing maintenance and repairs in the field. On the ground, they spend time on their computers determining a solution to any problems and then putting it into action. Caterpillar aimed to reduce the time between deciding on a fix and putting it into action. It turned to AR for this in 2015, citing this requirement.</p>
+
+
+
+<p id="fb78">Caterpillar technicians use AR to get step-by-step instructions on chores like changing an oil filter. It also instructs the technician on how to locate and access the required component. This enables technicians to quickly maintain Caterpillar machines on the field. They now use AR glasses when performing maintenance jobs, which helps to ensure their safety while on the job. As part of a quality check, AR glasses can be used to document essential components of a task.</p>
+
+
+
+<p id="1cdb">When it comes to maintaining and repairing its machines, AR assists Caterpillar in becoming hardware-independent. Engineers no longer have to figure out a patch and then implement it since AR eliminates the lag. AR has also aided in bridging the knowledge gap between new and seasoned professionals on the job, resulting in increased customer satisfaction.</p>
+
+
+
+<p id="e04e">In just four months, Caterpillar was able to build a proof of concept for their AR system. Caterpillar’s personnel now have a strong tool to shorten service times and boost equipment uptime thanks to AR. Caterpillar has been able to open up a new world of possibilities thanks to technology. What’s impressive is that it created the AR solution it required entirely on its own. However, you are not required to take the same path.&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;is the creator of the true AR/VR solutions. We at&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;offer the most comprehensive collection of tools in the business, allowing users to learn to assemble, fix, and troubleshoot problems wherever they are.&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;provides comprehensive solutions for in-field help and performance tracking across vertical industries such as industrial equipment manufacture, aerospace, construction, utilities, oil and gas, automotive, consumer applications, and more, whether teaching, executing difficult fieldwork or remote operations, or any number of aided operations.</p>
+
+
+
+<p></p>
+
+
+
+<p><a href="https://infivr.medium.com/?source=post_page-----867abdd0ca39--------------------------------"></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Real time data drives digital twin in Oil and Gas Industry!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/real-time-data-drives-digital-twin-in-oil-and-gas-industry/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/real-time-data-drives-digital-twin-in-oil-and-gas-industry/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:49:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=56</guid>
+
+					<description><![CDATA[Oil &#38; Gas despite its enormous worth has been laggard when it came to digital transformation, but COVID pandemic has pushed large and small oil &#38; gas companies to bring about a change in their thought process and adopt digital transformation. One of the technologies which is seriously being considered is Digital Twin. Digital twins [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="9b7f">Oil &amp; Gas despite its enormous worth has been laggard when it came to digital transformation, but COVID pandemic has pushed large and small oil &amp; gas companies to bring about a change in their thought process and adopt digital transformation. One of the technologies which is seriously being considered is Digital Twin. Digital twins allow oil and gas companies to respond to industry challenges with fact-based decision support, which can be especially useful given the added negative impact of the COVID-19 pandemic. The idea of a Digital Twin is not recent, having been around for over a decade.</p>
+
+
+
+<p id="551b">So, What exactly is a digital twin? Digital twin is a complete 360-degree digital replica of physical assets small or large, such as a pump, compressor, or entire refinery plant, that allows for data analysis and system monitoring to detect problems before they occur. Simply put, this entails constructing a highly complex computer model that is the exact replica (or twin) of a real object. The physical asset’s connected sensors gather data that can be mapped onto the virtual model. Anyone looking at the digital twin now has access to critical details on how the actual object is doing in the real world.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/1400/1*5EgSkC2O5IzXLsZ3NUHGpg.jpeg" alt=""/></figure>
+
+
+
+<p id="5cc0">Digital Twin is now applied to various critical processes of oil &amp; gas industry be it oil rigs or surface facilities, or refineries for;</p>
+
+
+
+<ul><li>Predictive maintenance is used to keep machinery, production lines, and facilities in good working order.</li><li>Monitoring goods in real-time as they are used by real consumers or end-users to gain a deeper understanding of them.</li><li>Optimisation of the various production process</li><li>Processes for improving product traceability</li><li>Assumptions are tested, validated, and refined.</li><li>Increasing the degree of integration between systems and subsystems that aren’t linked</li><li>Equipment remote monitoring &amp; troubleshooting via the internet, regardless of location</li></ul>
+
+
+
+<p id="836b">At&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;we have tied up with our global partners to provide Augmented Reality and Virtual Reality enabled digital twin solutions to few of the leading oil &amp; gas companies. These companies are using these solutions in remote monitoring of facilities. Integration with AR &amp; VR has taken digital twins of these facilities to a new level providing them refined information visualisation capabilities which was not possible before.</p>
+
+
+
+<p id="87d9">Oil and gas companies are beginning to see the value of Digital Twin, which can provide unparalleled real-time visibility into their activities and facilitates operational excellence by assisting oil and gas producers and owners in adopting a model-driven approach to rapidly convert vast quantities of data into wisdom that creates market value. Asset loss can be anticipated, hidden revenue opportunities can be discovered, and companies can continually improve in the ever-changing, competitive environment thanks to these powerful data insights. In short, Digital twins give us a glimpse at what is really happening to current assets, as well as what could happen in the future.</p>
+
+
+
+<p id="d868">The constant advancements in digital twin technology are making their use as a business necessity that can provide a long-term competitive advantage to those businesses that adopt it. This dedication to digital twins can be seen in the modelling of existing properties as well as the creation of new ones. The ability to not only track but also simulate operating parameters has a significant effect on decision-making processes. The adoption of the digital twin paradigm by industry-leading companies has been fuelled by the proliferation of the internet of things (IoT), artificial intelligence (AI), machine learning, and cloud computing.</p>
+
+
+
+<p id="cc55">𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐓𝐰𝐢𝐧 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐝𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐚𝐜𝐫𝐨𝐬𝐬 𝐭𝐡𝐞 𝐁𝐏 𝐚𝐧𝐝 𝐄𝐍𝐈 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬</p>
+
+
+
+<p id="1e26">BP is one of the companies that has invested in the technology, developing APEX, a sophisticated simulation and surveillance device that it has used to build virtual versions of all of its production systems. Its petroleum engineers can use real-time data to improve the efficiency of high-capacity assets — not least in the North Sea, where massive amounts of oil pass through well bores, risers, pipelines, and processing facilities every day — by evaluating the effect of their operational decisions using a digital reconstruction of real-world assets. According to the group, APEX increased global production by 30,000 barrels in 2017. Simulations that used to take hours to complete can now be completed in minutes, and the impact of potentially unsafe operations can be evaluated in the secure environment of the virtual world. The framework, which was first put to the test in some of BP’s most complex assets in the North Sea, provided immediate operational benefits. Similarly,</p>
+
+
+
+<p id="276c"><a href="https://www.infivr.com/">InfiVR’s</a>&nbsp;virtual environment enabled solutions provide a clear and sustainable path to a smart digital twin. Our solutions bring these digital twins to life by quickly capturing all the data with terrestrial or aerial laser scanners, P&amp;ID validation and more to create a 3D model. We help to integrate and link valuable operational and maintenance data to make better decisions with just a few clicks away.</p>
+
+
+
+<p id="cab4">On the other hand, ENI is another early adopter of digital twins, which recently completed a virtual model of the Scarabeo 8 ultra-Deepwater semi-submersible drilling rig. Its digital transformation in the drilling and completion area is based on artificial intelligence (AI) to help with operational decision-making, virtual reality (VR) to simulate operations, and advanced robotics to automate drilling. Its objectives are to increase rig safety, boost efficiency, and better plan wells. It can create simulated copies of its wells in difficult operating conditions and simulate the effect of decisions in a controlled environment thanks to digital twins. It’s also being used to provide cutting-edge operational training, with 3D spaces, digital models, and virtual reality (VR) being used to simulate walkthroughs of actual buildings, operational replays of real field operations, and advanced safety drills training.</p>
+
+
+
+<p id="e460">The development of such a sophisticated tool necessitates close cooperation between solution providers with expertise in Virtual Reality, Augmented Reality, Analytics, etc. as well as operators willing to open up their assets to the data-gathering systems needed for the required detail. Digital twins will quickly become normal with any new asset and an increasing number of existing facilities as these partnerships become closer and more symbiotic. The industry will one day exist in both the physical and virtual worlds, with the feedback between the two boosting productivity, asset life, performance, and, most importantly, protection.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/real-time-data-drives-digital-twin-in-oil-and-gas-industry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Boeing: Cuts 75% training time with VR &#038; Increases accuracy by 33% using AR</title>
+		<link>https://github.com/akhilkavy/infivr-blog/boeing-cuts-75-training-time-with-vr-increases-accuracy-by-33-using-ar/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/boeing-cuts-75-training-time-with-vr-increases-accuracy-by-33-using-ar/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:44:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=54</guid>
+
+					<description><![CDATA[Boeing is the world’s largest aerospace corporation, producing commercial jetliners, defence aircrafts, space, and security systems. Boeing is dedicated to being the industry leader in aviation and innovation by providing aircraft and facilities that are superior in terms of safety, design, and performance. Now as you can imagine, designing aircraft is one of the most [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Boeing is the world’s largest aerospace corporation, producing commercial jetliners, defence aircrafts, space, and security systems. Boeing is dedicated to being the industry leader in aviation and innovation by providing aircraft and facilities that are superior in terms of safety, design, and performance. Now as you can imagine, designing aircraft is one of the most complicated processes challenging engineering tasks with potentially disastrous consequences if something goes wrong. As a result, the building process must be handled with extreme caution, with room for no error. One of the most 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐬𝐭𝐚𝐠𝐞𝐬 𝐢𝐬 𝐞𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐞𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜 𝐜𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐰𝐢𝐫𝐢𝐧𝐠, since large stretches of wire connecting various sub-systems are spread out in the plane and must be connected precisely.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/1400/1*G5Y2VA7Llf2vyC7eEuHvJw.jpeg" alt=""/></figure>
+
+
+
+<p id="a08e">To overcome such issues Boeing has been using augmented reality to provide technicians with real-time, hands-free, immersive 3D wiring diagrams right in front of their eyes. Technicians use a HoloLens to guide the installation of wiring harnesses throughout the aircraft — replacing the “20-foot-long paper diagrams” previously used to complete the task. According to the company, this increased wiring speed and accuracy by 33%, saving millions per jet and allowing Boeing to manufacture more aircraft at a faster pace.</p>
+
+
+
+<p id="1169"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;is working with such leading aerospace and aircraft manufacturing companies to provide them augmented reality based solutions which assist technicians and associates in aircraft manufacturing processes like; riveting to electrical wirings to subassembly of systems for final assembly of aircraft which are few of the most complex stages of aircraft manufacturing.</p>
+
+
+
+<p id="01cb">Boeing is also using Virtual Reality for certain 𝐦𝐨𝐫𝐞 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐦𝐚𝐧𝐮𝐟𝐚𝐜𝐭𝐮𝐫𝐢𝐧𝐠 𝐭𝐚𝐬𝐤𝐬. While many employees receive training in aircraft assembly, some jobs are more ‘tribal.’ Like a cargo door seal that runs around the fuselage joint. It’s a 50-step procedure with just a handful of people in the business who know how to do it. Boeing incorporates virtual reality training by showing engineers the various pieces of equipment involved and how to bring them together using a detailed 3D model using the Microsoft HoloLens. As part of the experience, textual guidance appears, and the engineer is guided through the entire process by a voice-over. Boeing believes that by using this method, they have been able to reduce training time by 75% per person.</p>
+
+
+
+<p id="a4fe">Boeing has incorporated AR/VR into its 𝐬𝐩𝐚𝐜𝐞 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧 efforts. The Starliner, a small crew transport module for the International Space Station, is being developed with the HoloLens. Boeing’s application development lead in the space exploration IT division, Connie Miller, claims that “The HoloLens comes in handy here. We will examine the module closely to ensure that there is enough clearance and room to access the items you will need to repair.”</p>
+
+
+
+<p id="5614">This helps spot issues earlier in the process, when the product is still being designed, rather than after it has been created, when fixing them is much more costly and time-consuming. Also, when astronauts prepare for crewed space missions, every step of the flight is practiced thousands of times. While it takes just 12 minutes to launch a spacecraft from zero to orbit, it takes years of planning and hundreds of hours of complex training simulations. For the mission to be successful, everything needs to go flawlessly. So, In Houston, Virtual Training applications were integrated with physical simulators. The team were able to use virtual reality simulators to execute all of the interactions, including voice and turn commands, while immersed in the same environment as if they were sitting in the actual spacecraft. This opened up unprecedented virtual reality training possibilities for a crewed space mission for the Boeing Starliner programme. We at</p>
+
+
+
+<p id="f006"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;are working with one of the renowned space and research organisations providing them virtual reality based simulation training for In-capsule experience space flight experience involving various stages like; launch, ingress, zero gravity experience, orbital experience, emergency situation and various other operational scenarios during the space flight.</p>
+
+
+
+<p id="f7bb"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;is working on a zero gravity VR simulator using various gimbal based zero gravity simulators.</p>
+
+
+
+<p id="27da">Despite all these applications, virtual reality is still a relatively new idea in the business world, and its benefits must be sold to large corporate management teams. Although some businesses, such as Boeing, have early adopters and evangelists, others are unaware of the technology.</p>
+
+
+
+<p id="9805">It will be critical for the aviation and aerospace industry to find the right solutions to keep up with training requirements as demand for new aircraft maintenance technicians rises over the next two decades. Course curriculums will need to be customised to allow for optimal learning, and Boeing claims that emerging virtual and mixed reality technology will be critical in enhancing student engagement, instructional efficiency, and information retention.</p>
+
+
+
+<p id="c50f">Above applications of augmented reality and virtual reality are just a tip of an iceberg, AR / VR will seamlessly become part of almost all stages of complex engineering in years to come.</p>
+
+
+
+<p id="602b"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;is pioneer in bringing about this transformation, and we love to help organisations who are forward looking to adopt technologies to make their processes efficient.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/boeing-cuts-75-training-time-with-vr-increases-accuracy-by-33-using-ar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>COVID pandemic forcing companies to leverage AR / VR technologies to connect with their customers!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/covid-pandemic-forcing-companies-to-leverage-ar-vr-technologies-to-connect-with-their-customers/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/covid-pandemic-forcing-companies-to-leverage-ar-vr-technologies-to-connect-with-their-customers/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:43:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=52</guid>
+
+					<description><![CDATA[COVID-19, is causing widespread devastation on the earth. It is drastically altering the economy and&#160;creating major disruptions in industries such as airlines, tourism, retail, transportation, and pharmaceutical. We saw how this virus wreaks havoc on the demand and supply chain. This is evident in people’s changing behaviour, as they avoid public interaction, big gatherings, public [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="c24b">COVID-19, is causing widespread devastation on the earth. It is drastically altering the economy and&nbsp;creating major disruptions in industries such as airlines, tourism, retail, transportation, and pharmaceutical. We saw how this virus wreaks havoc on the demand and supply chain. This is evident in people’s changing behaviour, as they avoid public interaction, big gatherings, public transportation, restaurant flights, shopping malls, and so on. The traditional workplace is affected by this self-quarantine restriction. Coronavirus, on the other hand, has led to a worldwide boom in remote working. This is when creativity connects the whole world thereby preventing Coronavirus from affecting the workplace.</p>
+
+
+
+<p id="3bfc">Because of the COVID-19 pandemic, a large number of people are forced to function remotely. The only question is whether these changes will last, or if we’ll all return to the office once the virus is no longer a threat. Organizations are attempting to make use of the best teamwork methods, regardless of how long it takes for things to return to normal. Employees are currently interacting via conventional video-conferencing platforms However, there is another path for people to collaborate which is catching a lot of traction post pandemic, that is, virtual reality (VR) and augmented reality (AR).</p>
+
+
+
+<p id="c743">𝐋𝐞𝐭𝐬 𝐬𝐞𝐞 𝐡𝐨𝐰 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐜𝐚𝐧 𝐬𝐢𝐠𝐧𝐢𝐟𝐢𝐜𝐚𝐧𝐭𝐥𝐲 𝐮𝐬𝐞 𝐯𝐢𝐫𝐭𝐮𝐚𝐥 𝐫𝐞𝐚𝐥𝐢𝐭𝐲 𝐝𝐮𝐫𝐢𝐧𝐠 𝐂𝐎𝐕𝐈𝐃-𝟏𝟗 𝐏𝐚𝐧𝐝𝐞𝐦𝐢𝐜;</p>
+
+
+
+<p id="d528">𝐑𝐞𝐭𝐚𝐢𝐥 &amp; 𝐄𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐟𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐬𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠</p>
+
+
+
+<p id="460e">Prior to Covid-19, major retailers such as Amazon and Walmart dominated the online grocery industry, which was experiencing rapid growth. However, it only made up about 6% of the total grocery retail sector. Owing to isolation and quarantine as a result of the global Coronavirus outbreak, many people are unable to shop offline. However, this does not rule out the possibility of e-commerce firms communicating with their clients and consumers. Augmented reality is one of the few tools that can bring digital goods into live real spaces. In many cases AR is able to offer better visualization than actual objects in physical stores by enabling customers to see how those items will look and perform into their daily lives. There are several examples of AR being successfully integrated into digital shopping: For example, IKEA, a Swedish multinational, has already released an augmented reality catalogue app that allows you to see how different pieces of furniture will appear in your home; L’Oréal and Sephora, the beauty companies have also embraced technology by developing apps that enable consumers to digitally try on makeup before buying it. Any physical product can be transformed into a virtual model and sold in a mobile augmented reality store.</p>
+
+
+
+<p id="5b28">𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐞𝐧𝐫𝐢𝐜𝐡𝐞𝐝 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐫𝐞𝐚𝐥 𝐥𝐢𝐤𝐞 𝐯𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬</p>
+
+
+
+<p id="4f79">Augmented reality, virtual reality, and mixed reality would have an effect on education in addition to the workplace, shopping, and online activities. Millions of students across the world who are unable to attend school or university are concerned that the present and potential lockdowns would have a negative impact on their education. Schools and colleges can implement tools that enable students to learn through interactions to ease students’ concerns. The main advantages of AR and VR technologies in education are that they make learning more immersive and therefore more engaging. They can also incorporate gaming elements into textbook material. Platforms like virtual reality are expected to be the most useful tool. At</p>
+
+
+
+<p id="3e99"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;we have partnered with leading universities from the US, Middle East and Asia Pacific regions to power their engineering curriculums with Augmented and Virtual Reality.</p>
+
+
+
+<p id="3437">𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐟𝐨𝐫 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐨𝐟 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐬𝐮𝐫𝐠𝐢𝐜𝐚𝐥 𝐩𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞𝐬</p>
+
+
+
+<p id="2c2b">Virtual reality has also shown to have a variety of applications in healthcare. It can attract medical professionals by supplying them with a variety of uses in the central field of healthcare and treatment. Virtual reality allows physicians and medical personnel to withstand and practice even the most complex situations by allowing them to reachability that is as close to real-world patient handling as possible. This help provides a more analogous atmosphere in which doctors and health workers can learn to treat problems of treatment and proper learning more efficiently and effectively. Some patients experience psychosomatic disturbances after being exposed to such high levels of pandemic pressure as COVID-19. In such situations, the VR approach can be extremely beneficial and important. Researchers, physicians, the government, and academicians will create a healthy environment to combat this disease if this strategy is properly implemented. The definition of virtual reality encompasses an overall improvement in the precision and effectiveness of adopted actions, increased working proficiency, well-trained medical staff, and other factors that can both efficiently and profitably help to handle the continuing pandemic COVID-19 cases.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/1400/1*Pqt3QGDCqA0PuBoK7Jlz9w.jpeg" alt=""/></figure>
+
+
+
+<p id="394c">𝐏𝐚𝐫𝐚𝐝𝐢𝐬𝐞 𝐟𝐨𝐫 𝐆𝐚𝐦𝐞𝐫𝐬 𝐚𝐧𝐝 𝐒𝐩𝐨𝐫𝐭 𝐥𝐨𝐯𝐞𝐫𝐬</p>
+
+
+
+<p id="68bf">Virtual reality not only assists in the hunt for and destruction of coronavirus DNA, but they also assist in the alleviation of boredom and the suppression of their growing dread. Furthermore, virtual games that use virtual reality are more powerful than books. Because gaming became a way for people to bond socially during the pandemic, it’s likely that it’ll continue to be a social activity after it’s over. Traditional sports franchises have also taken a note of e-success and gaming’s major sporting competitions such as FIFA, NASCAR, and Formula 1 have been cancelled in order to uphold social distance norms, they are turning to e-games to keep their viewers engaged.</p>
+
+
+
+<p id="e591">Few more examples of how some companies have employed Virtual reality technology in the pandemic.</p>
+
+
+
+<ul><li>The ancient stone town of Stamford Kiel in the Midland Plains of the United Kingdom offered free VR equipment to 9643 households in the city so that they could engage in community events at home during the epidemic, such as virtual bars, virtual libraries, Easter activities, and even collaborate with local restaurants.</li><li>HTC agreed to organize this year’s developer conference online due to the outbreak, though it will still be held in virtual reality. Players may use VR to perform a variety of tasks in the scene.</li><li>Chinese startup Beike (<a href="https://bj.ke.com/">Ke.com</a>) has developed VR to let potential buyers and renters take virtual 3D tours of homes and apartments on the market. With almost 4 million houses currently available on its VR platform and 660 million people using it, VR is now an industry disruptor.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/700/1*eaWKBGdrbwzvpbU6hlfAzg.jpeg" alt=""/></figure>
+
+
+
+<p id="be96">There’s no end to the possible use cases for VR and AR during the current pandemic. Virtual reality technology allows companies to communicate with their customers without having to reach them in person and in these</p>
+
+
+
+<p id="dd39"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;has been instrumental in providing such solutions which are made scalable so that companies can quickly adopt it and apply it to their existing customer engagement processes and business requirements, we provide tools which make it easy to integrate it with current system. In light of this, market leaders should consider virtual reality solutions to assist them in overcoming fundamental obstacles and returning to regular selling practices during the current coronavirus pandemic.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/covid-pandemic-forcing-companies-to-leverage-ar-vr-technologies-to-connect-with-their-customers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mercedes bringing fighter jet like heads up display to its car using Augmented Reality!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/mercedes-bringing-fighter-jet-like-heads-up-display-to-its-car-using-augmented-reality/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/mercedes-bringing-fighter-jet-like-heads-up-display-to-its-car-using-augmented-reality/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:40:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=49</guid>
+
+					<description><![CDATA[Remember when the only way to choose and buy a vehicle was to go from garage to garage, pacing relentlessly around forecourts and haggling with salesmen? A car is a high-involvement, high-cost purchase for most people, and it also reflects self-expression, so all of the interactions that surround it should reflect that. Augmented Reality now [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="fa35">Remember when the only way to choose and buy a vehicle was to go from garage to garage, pacing relentlessly around forecourts and haggling with salesmen? A car is a high-involvement, high-cost purchase for most people, and it also reflects self-expression, so all of the interactions that surround it should reflect that.</p>
+
+
+
+<p id="84bb">Augmented Reality now enables car buyers to view&nbsp;cars in 3D from all directions instead of physically going to see them. Consumers can now make nuanced decisions without having to leave the house by getting a realistic 360-degree view of a vehicle, both inside and out, as well as seeing how it drives.</p>
+
+
+
+<p id="691b">Several car manufacturers have already adopted VR and AR technology. With research findings that 59% of consumers rely on personalisation to influence their purchasing decisions, the automotive industry like Mercedes-Benz, Audi, Honda and Toyota capitalised these new strategies to create a more immersive experience for customers. These companies are now using Augmented Reality technology to showcase their cars in new and creative ways, anywhere and at any time.</p>
+
+
+
+<p id="3adb">𝐌𝐞𝐫𝐜𝐞𝐝𝐞𝐬-𝐁𝐞𝐧𝐳 𝐥𝐞𝐯𝐞𝐫𝐚𝐠𝐢𝐧𝐠 𝐀𝐑 / 𝐕𝐑 𝐭𝐨 𝐝𝐢𝐬𝐫𝐮𝐩𝐭 𝐜𝐚𝐫 𝐝𝐫𝐢𝐯𝐢𝐧𝐠 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.</p>
+
+
+
+<p id="9648">Mercedes-Benz is using Microsoft HoloLens augmented reality platform to help with its manufacturing operations, initiate corporate training as well as a sales revolution. They integrated augmented reality into their training programmes. Employees can observe and comprehend complex structures in greater detail using the headset, and can inspect internal workings without having to dismantle the vehicle. The sets are being used by employees to train their colleagues on various manufacturing tasks.</p>
+
+
+
+<p id="db48"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;also brings such efficient and cost effective psychophysics based virtual reality solutions to solve training problems.</p>
+
+
+
+<p id="0c89"><a href="https://www.infivr.com/">InfiVR</a> is working with leading automobile companies to take their training programs to the next level providing them virtual reality based safety training, assembly and quality inspection training.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="https://github.com/akhilkavy/infivr-blog/wp-content/uploads/2021/07/1_OhdoNgtlxoByDCH9uYausg-1024x768.jpeg" alt="" class="wp-image-50" srcset="https://github.com/akhilkavy/infivr-blog/wp-content/uploads/2021/07/1_OhdoNgtlxoByDCH9uYausg-1024x768.jpeg 1024w, https://github.com/akhilkavy/infivr-blog/wp-content/uploads/2021/07/1_OhdoNgtlxoByDCH9uYausg-300x225.jpeg 300w, https://github.com/akhilkavy/infivr-blog/wp-content/uploads/2021/07/1_OhdoNgtlxoByDCH9uYausg-768x576.jpeg 768w, https://github.com/akhilkavy/infivr-blog/wp-content/uploads/2021/07/1_OhdoNgtlxoByDCH9uYausg.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p id="f042">Recently launched Mercedes-Benz-S-Class, is equipped with an augmented reality heads-up display (AR HUD), which projects navigational prompts and information about driving assistance systems into the area ahead of the car, appearing to blend them in. The device also displays the driver’s current direction in real time, highlighting the correct turning point in a complicated intersection, projecting house numbers, or representing traffic lights that are out of the driver’s view. Currently at Mercedes-Benz, Augmented reality is already at hand for S-Class, E-Class and GLB customers.</p>
+
+
+
+<p id="d07d">𝐀𝐮𝐝𝐢 𝐢𝐬 𝐭𝐫𝐲𝐢𝐧𝐠 𝐭𝐨 𝐠𝐞𝐭 𝐚𝐰𝐚𝐲 𝐟𝐫𝐨𝐦 𝐛𝐫𝐢𝐜𝐤 𝐚𝐧𝐝 𝐦𝐨𝐫𝐭𝐚𝐫 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐮𝐬𝐢𝐧𝐠 𝐯𝐢𝐫𝐭𝐮𝐚𝐥 𝐫𝐞𝐚𝐥𝐢𝐭𝐲.</p>
+
+
+
+<p id="8174">Since 2016, Audi has used some kind of virtual reality in its dealerships. They are shifting away from real-world cars but still allowing sales through virtual experiences. They incorporated Virtual Experience in the showrooms which not only resulted in reduction of showroom numbers but could also significantly increase showroom numbers as set up costs are greatly reduced. As a result, The Audi virtual reality experience allowed prospective customers to see the entire range of Audi vehicles and options all in one place.</p>
+
+
+
+<p id="0731">Along with the showrooms, Virtual Reality also changed their sales. When it came to viewing every part of the product, it allowed salespeople to show off not only the car, but also any new innovations that are incorporated into the models being displayed. This means that prospective customers can put on a headset and experience whatever vehicle they want in a safe setting. It enables them to customise the car according to their preferences, within the parameters of the available choices.</p>
+
+
+
+<p id="7d65">Recently, Audi India has also introduced the all-new myAudi Connect app, which allows owners to be more connected to their vehicles than ever before. Customers can have AR experience of Audi Cars at home on this app and Virtual experience is available at the Audi dealership. In the virtual reality experience, customers can not only look at the car from the outside, but also sit inside it and manipulate the various controls on the dashboard. The VR headset’s light and sound effects add to the immersive experience, making it a more realistic and natural feel. In 2021, the majority of car buyers choose to perform at least part of the transaction remotely, and COVID-19 regulations are driving more and more people online. Each customer gets an interactive virtual showroom and a practical test-drive experience thanks to Augmented Reality and Virtual reality.</p>
+
+
+
+<p id="58eb">𝐇𝐨𝐧𝐝𝐚 𝐥𝐞𝐯𝐞𝐫𝐚𝐠𝐢𝐧𝐠 𝐚𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐫𝐞𝐚𝐥𝐢𝐭𝐲 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐛𝐚𝐜𝐤 𝐭𝐨 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲.</p>
+
+
+
+<p id="77f8">Honda has begun to integrate augmented and virtual reality technology into the design, marketing, and use of their vehicles in recent years. Honda started using augmented reality to showcase their new car models in their Auto Show at Los Angeles. Beginning with Honda Accord Sedan, The entire experience of customers was driven by augmented reality technology, from the TLX to the surrounding world. In this case, augmented reality was used to help Honda generate buzz for the TLX and engage with customers in a fun and engaging way.</p>
+
+
+
+<p id="c77e">Honda added devices that can detect pedestrians in all directions using sensors mounted around the vehicle’s exterior. If a pedestrian is identified, the device can display an avatar on the windshield using augmented reality technology. This will notify the driver of the pedestrian’s position, allowing them to prevent a collision. Since the sensors sense pedestrians in all directions, the device improves drivers’ situational awareness by assisting them in locating pedestrians they would not have seen otherwise.</p>
+
+
+
+<p id="6010">Honda not only focused on the automotive industry but also used augmented reality to give it back to the community. For patients at the Children’s Hospital of Orange County, the automaker used augmented reality technology to create “The Magic Snow Globe” experience in 2018. The technology was used to transport children into a snow globe, where they could engage with a variety of holiday characters and other elements. Honda was able to provide the pediatric patients at this hospital with an unforgettable holiday experience.</p>
+
+
+
+<p id="4971">𝐓𝐨𝐲𝐨𝐭𝐚 𝐮𝐬𝐢𝐧𝐠 𝐀𝐑 𝐚𝐧𝐝 𝐕𝐑 𝐚𝐬 𝐧𝐞𝐱𝐭 𝐭𝐡𝐢𝐧𝐠 𝐟𝐨𝐫 𝐢𝐭𝐬 𝐊𝐚𝐢𝐳𝐞𝐧 𝐩𝐡𝐢𝐥𝐨𝐬𝐨𝐩𝐡𝐲.</p>
+
+
+
+<p id="626d">Toyota’s immersive AR experience sets the tone for the auto industry’s move toward digital transformation in the form of AR and MR because they bring virtual cars to customers all over the United States so they can have a firsthand look at them. The best thing is that the customers won’t need users to download a special app to their mobile device to do so. Instead, interactive media can be used to offer the AR experience on a large scale. For example, users can launch Toyota’s AR experience by simply clicking a banner ad on a social media page.</p>
+
+
+
+<p id="0209">Toyota is also improving teamwork by using augmented reality and virtual reality to bind remote and onsite workers more easily than ever before. It has been shown that creating a sensitive virtual environment for workers to communicate digitally:</p>
+
+
+
+<ul><li>Reduce the time it takes for approvals to be granted.</li><li>Increase the project’s timetable by allowing team members to react more quickly.</li><li>When more and more teams relocate offsite, improve workplace morale.</li><li>Increase the amount of contact between remote and in-house employees.</li></ul>
+
+
+
+<p id="703d">Toyota developed the virtual reality driving simulator called TeenDrive365. The simulator, which is designed to be used with the Oculus Rift, allows students to experience driving a car in virtual reality before getting on the road. TeenDrive365 teaches trainees to be vigilant on the road and avoid distractions like texting or talking to irritating friends while driving, thanks to realistic 3D graphics, animations, sounds, and complete simulations of road traffic. As Toyota provides a virtual experience to their customers and employees.</p>
+
+
+
+<p id="a2ac"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;is one of the leading AR / VR companies working very closely with automobile giants by consulting and providing solutions like; VR Safety Training modules, enhancing marketing experience by creating Virtual Automotive Dealerships, Assembly line production aid using augmented reality technologies enabled through head gears like HoloLens and Improving Sales experience through assistive tools for Sales Executives. Infi AVR Platform presents the power of augmented reality and virtual reality in the hands of automotive associates, engineers, designers, and assembly line workers.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/mercedes-bringing-fighter-jet-like-heads-up-display-to-its-car-using-augmented-reality/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Oil &#038; Gas companies undergoing rapid transformation post COVID using Virtual Reality &#038; Augmented Reality!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/oil-gas-companies-undergoing-rapid-transformation-post-covid-using-virtual-reality-augmented-reality/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/oil-gas-companies-undergoing-rapid-transformation-post-covid-using-virtual-reality-augmented-reality/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:34:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=47</guid>
+
+					<description><![CDATA[Oil &#38; Gas industry is considered to be one of the oldest and most traditional industrial sectors. Despite the fact that the Oil &#38; Gas sector is one of the largest in the world, technology adoption has always been slow. However this industry has been at the forefront of adoption of technologies like Virtual Reality [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Oil &amp; Gas industry is considered to be one of the oldest and most traditional industrial sectors. Despite the fact that the Oil &amp; Gas sector is one of the largest in the world, technology adoption has always been slow. However this industry has been at the forefront of adoption of technologies like Virtual Reality &amp; Augmented Reality and it has accelerated the manifold post COVID situation. The global AR and VR market in the Oil and Gas industry was worth $106.7 million in 2018, and is expected to hit $943.4 million by the end of 2027, rising at a CAGR of 27.4 percent. Although we foresee due to COVID these numbers would grow exponentially due to the need for transformations required in use of digital technologies.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/1400/1*2Ls88dTN9yOvlci0ChJ40Q.jpeg" alt=""/></figure>
+
+
+
+<p>The oil and gas industry, which employs hundreds of thousands of people worldwide and generates hundreds of billions of dollars per year, is considered the world’s most valuable industry in terms of dollar value. But it faces the challenges of lowering costs, maximising the output of its industrial base properties, and improving working conditions in the face of increasing global demand and multiple economic problems. Oil and gas production, distribution processes and systems are highly complex, capital-intensive, and require cutting-edge technology. The use of augmented reality technology in the oil and gas industry has shown that it is a valuable asset to invest in for both businesses and employees.</p>
+
+
+
+<p id="7bf6">The oil and gas industry due to the nature of its operations has a high incidence of injuries and fatalities. Although real-world experience is preferred, Virtual reality (VR) provides a way to cut training costs while dramatically reducing safety issues. A useful opportunity for unskilled workers to learn skills in an off-site environment without interfering with production or endangering costly machinery. Although there are several advantages of using digital off-site training, there are three key areas where this technology can help.</p>
+
+
+
+<p id="3460">𝐋𝐞𝐭’𝐬 𝐬𝐞𝐞 𝐡𝐨𝐰 𝐞𝐟𝐟𝐨𝐫𝐭𝐥𝐞𝐬𝐬𝐥𝐲 𝐕𝐢𝐫𝐭𝐮𝐚𝐥 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 𝐚𝐫𝐞 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐢𝐧 𝐎𝐢𝐥 𝐚𝐧𝐝 𝐆𝐚𝐬 𝐒𝐞𝐜𝐭𝐨𝐫:</p>
+
+
+
+<p id="143a">𝐓𝐢𝐦𝐞 𝐚𝐧𝐝 𝐜𝐨𝐬𝐭 𝐫𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧</p>
+
+
+
+<p id="e41b">AR — Remote Support allows field staff to access real-time data on the organisational frontline when monitoring workflow, allowing them to continue performing their tasks efficiently and without interruptions. In the event of an unforeseen issue, AR will assist field workers in resolving the issue by providing remote advice from experts who are virtually present on the field. In such situations, the organisation saves time and money by reducing the number of site visits.</p>
+
+
+
+<p id="3109"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;is working with a couple of leading Oil &amp; Gas companies to provide digital twin solutions powered by Augmented Reality for remote surface facility monitoring and inspection, a totally disruptive implementation of digital twin technology for the Oil &amp; Gas sector.</p>
+
+
+
+<p id="8cc8">𝐄𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐭𝐨𝐨𝐥 𝐚𝐧𝐝 𝐢𝐦𝐩𝐫𝐨𝐯𝐞𝐬 𝐰𝐨𝐫𝐤 𝐬𝐚𝐟𝐞𝐭𝐲</p>
+
+
+
+<p id="cf84">Training is a critical component of preparing for work in an offshore setting. It is a fairly straightforward connection that the quality, consistency, and pace of training can have a direct effect on workplace readiness, which can in turn have an impact on other actors in the situation. While the value of such training is widely acknowledged, time, expense, and safety constraints restrict the degree to which employees are exposed to hazards and brought up to existing standards.</p>
+
+
+
+<p id="7e4a">Current “Virtual” training has a distinct realism that is not found in the traditional classroom or web-based training. The interactive nature of this technology helps the user to immerse themselves in the training environment and understand the situation on a much deeper level, while AR can be thought of as an informational supplement to real life. A wide range of situations in preparation can also be used to increase safety efficiency with the inclusion of interactivity. The ability to use AR/VR technology to reconstruct events and situations allows for the safe simulation of risky real-world scenarios. The ability to replay the user’s experiences makes this a valuable tool for evaluating trainee results. This even becomes more useful in a post COVID scenario where travel is restricted and Oil &amp; Gas safety training is very context specific, trainees need to get a feel of real Oil Rig, onshore / offshore context and critical equipment, which is now very much possible with virtual reality. Recently</p>
+
+
+
+<p id="3386"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;has seen as surge in such requirements and since we have extensive training we are the preferred partner company of leading oil and gas companies to provide Virtual Reality based training solutions.</p>
+
+
+
+<p id="6cf7"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;has provided Onshore and Offshore Oil Rig Safety training and various simulators which are required by Oil and Gas companies.</p>
+
+
+
+<p id="0d89">𝐄𝐚𝐬𝐲 𝐌𝐚𝐢𝐧𝐭𝐞𝐧𝐚𝐧𝐜𝐞 — 𝐀𝐑 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐬 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐂𝐞𝐧𝐭𝐫𝐞 𝐄𝐱𝐩𝐞𝐫𝐭𝐬 𝐰𝐢𝐭𝐡 𝐚 𝐜𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐯𝐢𝐞𝐰 𝐨𝐟 𝐭𝐡𝐞𝐢𝐫 𝐦𝐚𝐜𝐡𝐢𝐧𝐞𝐬 𝐦𝐚𝐢𝐧𝐭𝐞𝐧𝐚𝐧𝐜𝐞 𝐫𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬.</p>
+
+
+
+<p id="4470">The majority of field engineers in charge of maintaining and operating machines on oil rigs, such as pumps, engines, top drive, mud tanks, draw works, generators, etc. do not have real-time knowledge about the efficiency and operations of the machines in front of them. With AR insightful graphics, Real-time details can appear in their field of view over a cell phone or glasses and audio can match to what they see. So, AR technology can help to speed up the process of fixing machines that need immediate attention. Machines that aren’t working need the attention of a skilled technician, causing several processes to be disrupted before the root cause of the problem is identified. AR-Remote Support enables a real-time link between a Centre specialist and Field technicians, resulting in quick and efficient repair and maintenance solutions. Field technicians can quickly discover the root cause of a machinery failure and fix the problem thanks to AR collaboration.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/700/1*X0e0QR9nk6cOL8QGxsNK7A.jpeg" alt=""/></figure>
+
+
+
+<p id="fc9a">Apart from this, Augmented reality is also used by Oil &amp; Gas companies in marketing visualisation of latest complex equipment used in upstream and downstream processes. Virtual Reality is used for remote collaborative design reviews of complex 3D designs of equipment used in Oil and Gas production. Many companies in the oil and gas industry are embracing AR/VR technology as a tool for rising efficiency, protection, and cost-effective maintenance. These applications are already helping oil and gas companies change their operating processes by lowering costs, improving remote communication, and staying competitive in the market. Considering all of the features and advantages, the use of Augmented Reality in oil and gas operations is proving to be extremely effective and has the potential to completely change the industry and</p>
+
+
+
+<p id="bd2c"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;is helping Oil and Gas companies to come up with such innovative solutions which take their design review discussion to a new level.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/oil-gas-companies-undergoing-rapid-transformation-post-covid-using-virtual-reality-augmented-reality/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lockheed Martin reduces training time by 85% using Augmented Reality Technology!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/lockheed-martin-reduces-training-time-by-85-using-augmented-reality-technology/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/lockheed-martin-reduces-training-time-by-85-using-augmented-reality-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:31:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=45</guid>
+
+					<description><![CDATA[Consider how difficult it was for you or a child to put together complex LEGO creations when you were a kid. Imagine putting together a fighter plane from a room full of pieces. Even highly skilled engineers may benefit from technological advancements in order to increase accuracy and efficiency. How exactly is Augmented Reality or [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="10e2">Consider how difficult it was for you or a child to put together complex LEGO creations when you were a kid. Imagine putting together a fighter plane from a room full of pieces. Even highly skilled engineers may benefit from technological advancements in order to increase accuracy and efficiency.</p>
+
+
+
+<p id="a1fa">How exactly is Augmented Reality or Mixed Reality now leveraged into ultra high tech manufacturing of military aerospace machines? It’s a technology that overlays a computer-generated image over one’s view of the real world, resulting in a more enhanced version of reality. It’s becoming a powerful tool for the industry to use, with too many small parts and complicated assembly. Similarly, The combination is targeted directly at large corporations like Lockheed Martin, which is one of the leading and most technologically advanced multinationals in aerospace, defence, security and advanced technology corporations based in the United States. The F-22 and F-35 programmes at Lockheed Martin gave the company its first taste of virtual reality design in the early 2000s.</p>
+
+
+
+<p id="1e7d">In this article, Let’s find out how Lockheed Martin used these advanced technologies.</p>
+
+
+
+<p id="e892">𝐓𝐨 𝐈𝐦𝐩𝐫𝐨𝐯𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐞𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞𝐧𝐞𝐬𝐬</p>
+
+
+
+<p id="0ced">Previously, the defence giant needed a team of technicians with years of experience to work on the complex machine, but now engineers are using virtual reality glasses to ensure that every component of the warplane is in perfect working order. Using Virtual Reality, The team can simulate tasks that would normally take hours with a crane and even more hours with equipment in a matter of seconds. They can pick up components with their hands and shift them weightlessly to the side to get a better look at another element of the VR demo.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/1400/1*x-vEzijzYU_K_ZdeJlSZeg.jpeg" alt=""/></figure>
+
+
+
+<p id="c71c">Military personals can view the equipment from any perspective, at any distance, and control it as needed within the virtual scenarios to better understand its function and suggest improvements. Through their operational experience, the armed force personals were able to see items like generator positioning and exhaust, and made suggestions to remove excess equipment for weight. We at&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;provide cutting edge Virtual reality based collaborative solutions to leading aerospace and manufacturing companies with a very high focus on remote collaborative design, research and product development.</p>
+
+
+
+<p id="91f8">𝐒𝐡𝐨𝐫𝐭𝐞𝐧 𝐭𝐡𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐩𝐞𝐫𝐢𝐨𝐝 𝐚𝐧𝐝 𝐚𝐢𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐨𝐟 𝐦𝐚𝐢𝐧𝐭𝐞𝐧𝐚𝐧𝐜𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬</p>
+
+
+
+<p id="08c6">Drawings, models, and a lot of data must be interpreted in order to design Lockheed Martin spacecrafts. Engineering team of Lockheed Martin often develops a small number of spacecraft for use in space. They have programmes with higher volumes, but they’re interpreting data in almost every construct in many instances. And it takes time to decode. There is simply a huge benefit of being able to position data spatially. It takes out a lot of the guesswork. They’ve seen in the past that going through all of the data and making sure, as well as working with colleagues to make sure the decision about to be taken is the right one, takes about half of the time. And so, Lockheed Martin collaborated with Augmented Reality experts on the shop floor to create training manuals that provide animations for assembling spacecraft components. Engineers who have been trained to use the tool complete maintenance and repairs much quicker than previously possible. Orion is a Lockheed Martin-built spacecraft and their technicians’ training time was cut by 85 percent. The resulting workflows have been used to minimize touch labor for Orion spacecraft components with tight tolerances, such as fasteners and accelerometers.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/700/1*saMPipqBTumd9sWPQBknmw.jpeg" alt=""/></figure>
+
+
+
+<p id="5459">According to the Lockheed, Augmented Technology technology has reduced touch labor for drilling by 45 percent and torque applications by 50 percent. The job of tightening Orion’s fasteners was cut in half, from six weeks to two. Overall this technology has enabled engineers to work 30% faster while maintaining 96% accuracy. They’ve seen a 35–50 percent reduction in total technician time, a 90–99% reduction in time to information, and an 85 percent reduction in total training time.</p>
+
+
+
+<p id="b213">Prototypes must be made, tested, and retested in order to produce products that meet requirements. This can be very costly. Manufacturers such as Lockheed Martin’s are using virtual reality to eliminate the need for full-scale models.</p>
+
+
+
+<p id="d581">We @&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;offer such collaborative product R&amp;D virtual reality and MRO assistance, training augmented reality solutions to few of the leading players in Aerospace industry. To know more do reach out to our experts: hello@InfiVR.com</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/lockheed-martin-reduces-training-time-by-85-using-augmented-reality-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Virtual Reality changing landscape of Training &#038; Simulation in Defence!</title>
+		<link>https://github.com/akhilkavy/infivr-blog/virtual-reality-changing-landscape-of-training-simulation-in-defence/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/virtual-reality-changing-landscape-of-training-simulation-in-defence/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 06:28:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=43</guid>
+
+					<description><![CDATA[Military preparation takes a long time and costs a lot of money. Furthermore, on-the-ground combat training is incomparable to real-world fighting, where soldiers must work in a high-pressure atmosphere, maintain high situational awareness, and react quickly to enemy movements. War never changes. Whether or not war shifts, the tactics and resources we use to fight [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="3019">Military preparation takes a long time and costs a lot of money. Furthermore, on-the-ground combat training is incomparable to real-world fighting, where soldiers must work in a high-pressure atmosphere, maintain high situational awareness, and react quickly to enemy movements. War never changes. Whether or not war shifts, the tactics and resources we use to fight it do. The defence sector has been greatly affected by technological advancements. Wars are now fought and conducted not only on the physical battlefield, but also in a diverse digital world that includes information, cyber, and space warfare. In this sense, Winnability necessitates the digitization of defence forces and the application of cutting-edge technology in the defence space.</p>
+
+
+
+<p id="a020">Consider a military base training camp where soldiers can access the most up-to-date AR/VR-based software at any time and practice with simulated enemies that replicate the exact battlefield environment. Wouldn’t they be better prepared to deal with any situational difficulty on the battlefield if they were educated in this manner?</p>
+
+
+
+<p id="6d8b">We at&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;provide a variety of immersive environments for military training, ranging from real-time mission rehearsals to VR enabled shooting drills with extremely informative and personalized simulations. We help soldiers improve their cognitive abilities and align simulated training with on-field experience.</p>
+
+
+
+<p id="1166"><a href="https://www.infivr.com/">InfiVR</a> has been working with Indian Air Force, Indian Army and Indian Navy to provide virtual reality based training and simulation solution for few of the critical training requirements, be it virtual aircraft flight simulations or virtual reality training of critical assets maintenance and servicing.</p>
+
+
+
+<p><strong>Do you want to know about how augmented reality and virtual reality avails in combat training?</strong></p>
+
+
+
+<p id="145e">In this article, We will attempt to cover the recent advances in the field of AR/VR that have the potential to revolutionize.</p>
+
+
+
+<p id="8259">The defence industry has had a major impact on the history of virtual reality. In the 1960s, one of the first AR/VR projects was created for a US military battle system. Virtual reality has long played an important role in the military, and it has been embraced by all three branches: army, navy, and air force. Recently, The Pentagon is also preparing to launch a programme that will include incorporating the technology into mission planning and training in simulated and live environments on training ranges. For the same, they contracted for augmented reality headgears for soldiers worth $21.88 billion over the next decade, the US military announced. Although AR/VR is most commonly used for army training, It has a variety of other applications.</p>
+
+
+
+<p>𝐓𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 (𝐓𝐀𝐑)</p>
+
+
+
+<p>Soldiers must maintain situational awareness (SA) at all times, as they must monitor past, current, and future activities on the battlefield, as well as friendly and enemy positions. Failure to do so could result in not only lost fights, but also in the loss of lives. Battlefields are perplexing, frustrating, and frightening environments, making it difficult for soldiers to sustain SA. A soldier’s line of sight can be physically obstructed by buildings, rubble, smoke, or other such obstacles, making it difficult for them to take in their surroundings. Naturally, AR was described as a possible help in sustaining and strengthening, military personnel’s SA. Tactical Augmented Reality (TAR) is the Army’s new attempt to link soldiers and give them “situational knowledge” on the battlefield — where they are, where their friends are, where the enemy is, and everything else they need to know for their task, everything tied into tactical communications.</p>
+
+
+
+<p>𝐅𝐨𝐫 𝐯𝐞𝐡𝐢𝐜𝐥𝐞 𝐚𝐧𝐝 𝐟𝐥𝐢𝐠𝐡𝐭 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬, virtual reality can help soldiers learn how to handle fighter jets, submarines, and ground vehicles without ever having to climb into one. The VR-based simulators simulate real-world vehicle movements, assisting troops in their preparation for actual field experience. They may also be used to provide information about soldiers in various situations.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/1400/1*9uAgNzO3RRu1f5Foe8QV9Q.jpeg" alt=""/></figure>
+
+
+
+<p id="c5c1">𝐕𝐞𝐡𝐢𝐜𝐮𝐥𝐚𝐫 𝐫𝐞𝐩𝐚𝐢𝐫 𝐚𝐧𝐝 𝐦𝐚𝐢𝐧𝐭𝐞𝐧𝐚𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐛𝐚𝐭𝐭𝐥𝐞𝐟𝐢𝐞𝐥𝐝 entails overlaying augmented reality on a two-dimensional written manual or schematics. The user sees instructions as a three-dimensional overlay on the real object, with complex symbiology suggesting which parts to modify or substitute. Army vehicles and guns are likely to be repaired in less time and at a lower cost as a result of this.</p>
+
+
+
+<p id="329b">𝐁𝐨𝐨𝐭 𝐂𝐚𝐦𝐩 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐢𝐧 𝐕𝐑</p>
+
+
+
+<p id="3b5d">What’s the most effective way to hone your shooting and surveillance skills? You won’t have to worry about your soldiers being inadvertently wounded or killed by an inexperienced companion if you use VR.</p>
+
+
+
+<p id="64bf">Virtual reality allows soldiers to engage in high-tech soldier training through gaming. In virtual reality, boot camp is a specially built training room in which soldiers can walk about during the training. They receive all necessary equipment, such as gaming weapons, virtual reality headsets, headphones, controls, and more. All of the equipment fully immerses the player in the environment, blurring the line between game and real life.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/700/1*P7PSCdwdeHuA27RiSFRxHQ.jpeg" alt=""/></figure>
+
+
+
+<p id="eece">𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐭𝐰𝐢𝐧𝐬</p>
+
+
+
+<p id="c727">VR and AR are used to build digital twin navy ships or engine models with digitized parts, and a real-time simulation platform is used to combine engine and ship models. A virtual, real-time replica of engine equipment is expected to aid in better monitoring, analysis, and prediction of results, resulting in safer and more effective operations.</p>
+
+
+
+<p id="c745">𝐕𝐑/𝐀𝐑-𝐛𝐚𝐬𝐞𝐝 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐝𝐨𝐜𝐭𝐨𝐫𝐬 𝐚𝐧𝐝 𝐩𝐚𝐫𝐚𝐦𝐞𝐝𝐢𝐜𝐬</p>
+
+
+
+<p id="3fc6">Simulation is the most popular form of hands-on medic instruction. This also focuses on hands-on physical simulants, such as moulage overlaid on a mannequin or a person performing the part of a virtual human casualty. Instrumented mannequins that can bleed, have a heartbeat, and even speak are used in certain training facilities. This medic training in virtual reality may include helicopter noises, gunshots, and explosions to build realistic scenarios and allow medics to learn different skills under pressure. Suturing, adjusting broken bones, evaluating limb and muscle performance, and performing simple procedures are all available to doctors. By such simulation, Army medics can learn how to perform life saving operations in the chaotic environment of a real warzone during the class.</p>
+
+
+
+<p id="fb24"><strong>Do you want an augmented reality and virtual reality (AR/VR) solution for the military?</strong>&nbsp;Find a trustworthy partner to help you build the tech-savvy solution you want. With over 15 years of VR experience,</p>
+
+
+
+<p id="d95d"><a href="https://www.infivr.com/">InfiVR</a>&nbsp;is a dedicated organisation of AR / VR technology and defence experts;&nbsp;<a href="https://www.infivr.com/">InfiVR</a>&nbsp;has been working with defence organisations and leading defence equipment manufacturers around the globe to provide Virtual Reality and Augmented Reality solutions for Military purposes.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/virtual-reality-changing-landscape-of-training-simulation-in-defence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Virtual Reality &#038; Augmented Reality are next big digital disruptions at Walmart</title>
+		<link>https://github.com/akhilkavy/infivr-blog/virtual-reality-augmented-reality-are-next-big-digital-disruptions-at-walmart/</link>
+					<comments>https://github.com/akhilkavy/infivr-blog/virtual-reality-augmented-reality-are-next-big-digital-disruptions-at-walmart/#respond</comments>
+		
+		<dc:creator><![CDATA[infivr]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 17:32:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/akhilkavy/infivr-blog/?p=40</guid>
+
+					<description><![CDATA[The retail environment is constantly changing, resulting in fresh and memorable consumer interactions. Businesses are using technical hybridisations to differentiate themselves and cater to their customers in new ways. People are already doing their grocery shopping and browsing eCommerce websites on the internet. In the same way that the internet changed the world, augmented reality [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The retail environment is constantly changing, resulting in fresh and memorable consumer interactions. Businesses are using technical hybridisations to differentiate themselves and cater to their customers in new ways. People are already doing their grocery shopping and browsing eCommerce websites on the internet. In the same way that the internet changed the world, augmented reality (AR) and virtual reality (VR) are poised to fully transform the shopping experience and industry. With the trend of bringing innovation in every aspect, retailers are now using virtual reality (VR) and augmented reality (AR) technology to create immersive experiences that digitally connect customers.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/1400/1*wrWDvBxSoST6CDrAt0bMmw.jpeg" alt=""/></figure>
+
+
+
+<p id="95c0">Walmart, with over 10,000 stores in 24 countries and over 2.2 million associates worldwide, with nearly 1.5 million in the United States alone has been one of the world’s biggest employers for decades, and its success has been virtually unstoppable. Increased investments in emerging technologies have aided this development in recent years, helping Walmart to become one of today’s most creative businesses.</p>
+
+
+
+<p id="c2da">Walmart adopted virtual reality headsets in its training centres, dubbed “Walmart Academies,” to enhance employee experience, present new ways of training staff or to determine which workers possess the necessary skills to fill middle management roles. Along with training, Walmart also incorporated augmented reality in the hands of Shoppers.</p>
+
+
+
+<p id="13da">Walmart offers training at its dedicated Academy as well as in its hundreds of locations.</p>
+
+
+
+<p id="e636"><strong>Augmented Reality &amp; Virtual Reality for Training</strong></p>
+
+
+
+<p id="2b50">Black Friday is one of Walmart’s most difficult virtual reality situations. Although Black Friday is a fantastic sales tool, it is a nightmare for front-line employees. Hundreds of customers, hundreds of different deals and special offers, long queues, statements, grievances, cash register strikes, and so on. Walmart provides VR training programmes for such scenarios to employees in about 200 Walmart Academies. Multiple scenarios unique to various roles are included in the VR module that the organisation uses for VR preparation. Managers, customer service agents, and, of course, store sales people all have responsibilities. Virtual reality immerses the students in scenarios that are difficult to replicate in real life. Or, to put it another way, such conditions are unsuitable for preparation when they do arise in real life. They gain unlimited time to prepare staff to tackle such incidents by creating a Black Friday scenario in VR. Any scene in virtual reality can be rerun as many times as necessary to help the trainees better handle the “crisis”. In a similar manner we @<a href="https://www.infivr.com/">InfiVR</a> are working with similar customers to provide virtual reality based soft skill training to sales executives, or customer facing associates. We have taken virtual reality based soft skills training to a new level including artificial intelligence in it, which provides behavioural pattern recognition to provide near real learning experience.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://miro.medium.com/max/700/1*L1Ify78Emv2DZa2MDyk2Og.jpeg" alt=""/></figure>
+
+
+
+<p id="4ab8">The organisation wants to make the training as immersive as possible, even when the worker is not able to travel to academy for whatever reason they may have. Therefore, Walmart incorporates virtual reality into its shops. For the same, Walmart launched a national scale VR training campaign with the ultimate target of equipping all of its US locations with virtual reality headsets to allow Academy-level training right in the shops.</p>
+
+
+
+<p id="3c16">The Academy curriculum is aimed at a smaller group of people, while the in-store training is aimed at a much larger group. Loaders, janitors, and store employees will all benefit from the VR-based instruction. Walmart would expect their workers to use their talents more effectively and confidently as a result of virtual reality’s improved engagement and retention, resulting in increased productivity.</p>
+
+
+
+<p id="fb71"><strong>Hiring new employees</strong></p>
+
+
+
+<p id="3e24">Apart from training, Walmart’s management also uses the VR application to assess retail associates’ knowledge of their respective and other divisions, decision-making and leadership abilities, as well as soft skills.Testing based on the frameworks mentioned above assists Walmart management in assigning job roles and positions to workers in the company based on their performance and productivity levels. The implementation of virtual reality in Walmart was a success, as it was well received by both workers and management. Employees’ compensation packages represented the manner in which they received promotions and increments after being subjected to testing focused on the use of virtual reality technology.</p>
+
+
+
+<p id="0c11">Walmart’s key message in launching this VR initiative for training is that they assist employers in gaining skills that they can apply outside of Walmart.</p>
+
+
+
+<p id="a204"><strong>Augmented Reality for Shopping Experience</strong></p>
+
+
+
+<p id="57b8">The company is now placing AR in the hands of their loyal customers, adding to their continuing drive towards a high-tech in-store experience. Based on AR technology, Walmart offers the Garnier Virtual Shade Selector solution. It is a shelf-based interactive display screen that allows customers to test permanent Garnier hair shades. Customers first take a one-minute diagnostic test, after which they can digitally try on a selection of recommended Garnier shades using integrated Modiface 3D technology. The new hair shades are digitally applied to the customer’s live video image on the interactive display screen.</p>
+
+
+
+<p id="ae52">The new AR tool i.e. AR scanner is also introduced on Walmart’s app for in-store price comparisons. It allows shoppers to scan physical items to show up-to-date details such as the product name, price, consumer feedback from Walmart.com, and other useful information — all by scanning the labels on store shelves with their smartphone.</p>
+
+
+
+<p id="7b98">Walmart’s vision is to go beyond gimmicks and delve further into a futuristic augmented and virtual reality shopping environment that has the potential to permanently change the Walmart shopping experience.</p>
+
+
+
+<p id="d9aa">Walmart seems to be trying to balance the benefits of online shopping with traditional, brick-and-mortar storefronts by combining various innovations. AR / VR is bringing about a digital transformation not just for Walmart, but many leaders like; Amazon, Costco, etc. are leveraging various facets of their businesses. The Problems that the traditional market faces , particularly in post-covid 19 world, brings out the scope of AR/VR in the retail industry.</p>
+
+
+
+<p id="d865">We @<a href="https://www.infivr.com/">InfiVR</a>, have already helped a lot of brands to create a virtual experience for their customers. We are coming up with new and efficient ways of bringing this innovation and introducing a better, more smoother retail experience for all the stakeholders.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/akhilkavy/infivr-blog/virtual-reality-augmented-reality-are-next-big-digital-disruptions-at-walmart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
